@@ -10,7 +10,6 @@ WeatherCL will return something like:
     The weather in Montreal, Canada right now:
 
     Temperature: 29.01°C. Feels like: 27.58°C.
-    Today's High: 30.00°C. Today's Low: 27.00°C. 
     Relative Humidity: 61%
     Atmospheric Pressure: 0.9929 atm / 1006.00 hPa / 754.62 mmHg
     Sky is clear
